@@ -10,5 +10,5 @@
 <!-- 7/ Change l'image de la partie LinkedIn par ta propre bannière LinkedIn   -->
 <!-- 8/ Rajoute un lien sur l'image qui pointe sur ton profil LinkedIn   -->
 9/ Rajoute un lien vers ton suivi de recherche d'alternance et ta roadmap de montée en compétences (pense à faire des excel online pour que les REE puissent suivre ton avancée)  
-10/ Connecte toi sur Netlify avec ton compte Github et déploie ta page avec l'url prenom-nom (l'extension sera .netlify.app)   
+<!-- 10/ Connecte toi sur Netlify avec ton compte Github et déploie ta page avec l'url prenom-nom (l'extension sera .netlify.app)    -->
 11/ Dépose un PDF contenant le lien du Github + le lien vers ta page de suivi !  
